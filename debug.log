@@ -1,0 +1,100 @@
+Session: Array
+(
+)
+
+POST: Array
+(
+    [email] => ff@gmail.com
+    [password] => 1234567
+)
+
+No admin found with email: ff@gmail.com
+User found: ID 2
+User login successful: Array
+(
+    [user_id] => 2
+    [role] => user
+)
+
+Session: Array
+(
+)
+
+POST: Array
+(
+    [email] => admin@gmail.com
+    [password] => admin123
+)
+
+No admin found with email: admin@gmail.com
+Error: Email not found: admin@gmail.com
+Session: Array
+(
+)
+
+POST: Array
+(
+    [email] => admin@gmail.com
+    [password] => admin123
+)
+
+No admin found with email: admin@gmail.com
+Error: Email not found: admin@gmail.com
+Session: Array
+(
+)
+
+POST: Array
+(
+    [email] => admin@gmil.com
+    [password] => admin123
+)
+
+Admin found: ID 1
+Error: Invalid admin password
+Session: Array
+(
+)
+
+POST: Array
+(
+    [email] => admin@gmail.com
+    [password] => admin123
+)
+
+Admin found: ID 2
+Error: Invalid admin password
+Session: Array
+(
+)
+
+POST: Array
+(
+    [email] => admin@gmail.com
+    [password] => admin123
+)
+
+Admin found: ID 2
+Error: Invalid admin password
+Session: Array
+(
+)
+
+POST: Array
+(
+    [email] => admin@gmail.com
+    [password] => admin123
+)
+
+Admin found: ID 2
+Session: Array
+(
+)
+
+POST: Array
+(
+    [email] => admin@gmail.com
+    [password] => admin123
+)
+
+Admin found: ID 2
